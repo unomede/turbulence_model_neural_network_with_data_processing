@@ -1,0 +1,4 @@
+#!MC 1300
+# Created by Tecplot 360 build 13.1.0.15185
+$!ALTERDATA 
+  EQUATION = 'v11 =  - 0.5 * ddx( v5 ) + 0.5 * ddy( v4 )'
